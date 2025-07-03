@@ -1,0 +1,13 @@
+## Interface: 50500
+## Title: Health Alarm
+## Notes: Acoustic Health Alarm
+## Version: 3.9
+## Author: Lorade
+## SavedVariables: HealthAlarmDB
+
+Include.xml
+Locales\Locale.xml
+
+Init.lua
+Lib.lua
+Interface.lua

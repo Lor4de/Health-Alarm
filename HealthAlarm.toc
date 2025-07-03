@@ -1,7 +1,7 @@
 ## Interface: 110105
 ## Title: Health Alarm
 ## Notes: Acoustic Health Alarm
-## Version: 3.8
+## Version: 3.9
 ## Author: Lorade
 ## SavedVariables: HealthAlarmDB
 
